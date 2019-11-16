@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FIDO2 Demo</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="asset_statements" >
+        [
+            {
+              \"include\": \"https://k2webauthn.web.app/.well-known/assetlinks.json\"
+            },
+        ]
+    </string>
+    <string name="sign_out">Sign out</string>
+    <string name="error_message_is_empty">Empty</string>
+</resources>

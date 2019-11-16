@@ -1,0 +1,38 @@
+{
+  "name": "fido2-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FIDO2 example",
+  "scripts": {
+    "postinstall": "run-p postinstall:*",
+    "postinstall:functions": "npm --prefix functions install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2wanko/fido-example.git"
+  },
+  "keywords": [
+    "FIDO",
+    "demo"
+  ],
+  "author": "Kazuhiro Kubota <k2.wanko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k2wanko/fido-example/issues"
+  },
+  "homepage": "https://github.com/k2wanko/fido-example#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.7.0",
+    "@typescript-eslint/parser": "^2.7.0",
+    "eslint": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "firebase-tools": "^7.7.0",
+    "npm-run-all": "^4.1.5",
+    "typescript": "^3.7.2"
+  }
+}

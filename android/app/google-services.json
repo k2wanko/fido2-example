@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473430665345",
+    "firebase_url": "https://k2webauthn.firebaseio.com",
+    "project_id": "k2webauthn",
+    "storage_bucket": "k2webauthn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473430665345:android:43bc22adbf260e886b4580",
+        "android_client_info": {
+          "package_name": "dev.k2wanko.examples.fido2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473430665345-d2tk7nqjh7tofcos2e0qhto20j40lvrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.k2wanko.examples.fido2",
+            "certificate_hash": "c0025fa14c719d449f30c9523a8e25659458cdea"
+          }
+        },
+        {
+          "client_id": "473430665345-hbgibpup6kqa8m8ap5u9jp1p71bcq0eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0Yoj-HLogABoElru3C4bjX4elsq54eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473430665345-hbgibpup6kqa8m8ap5u9jp1p71bcq0eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
